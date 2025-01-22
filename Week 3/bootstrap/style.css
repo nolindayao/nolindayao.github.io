@@ -1,0 +1,28 @@
+.box1{
+    background-color: rgb(42, 235, 235);
+    height: 100px;
+}
+
+.box2{
+    background-color: rgb(232, 255, 127);
+    height: 100px;
+}
+
+.box3{
+    background-color: rgb(219, 34, 34);
+    height: 100px;
+}
+
+.box4{
+    background-color: rgb(114, 19, 202);
+    height: 100px;
+}
+
+.box5{
+    background-color: rgb(55, 226, 106);
+    height: 100px;
+}
+
+.box-50{
+    height: 50px;
+}
