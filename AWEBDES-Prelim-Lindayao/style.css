@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+}
+
+.header{
+    background-color: #646266;
+}
+
+.banner {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+footer p {
+    margin: 0;
+}
+
+.banner{
+    height: 500px;
+}
+
+.five{
+    background-color: #ede4d6;
+}
+
+.list-group{
+    background-color: #ede4d6;
+}
